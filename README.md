@@ -22,6 +22,6 @@
 <br />
 <br />
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=miguel-bento-github&repo=dev24">
+<a href="https://www.dev24.net/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-bento-github&theme=github_dark&show_icons=true&repo=dev24" />
 </a>
