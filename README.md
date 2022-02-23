@@ -14,12 +14,12 @@
 <br />
 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=miguel-bento-github&repo=vite-vue-ts-storybook">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-bento-github&theme=github_dark&show_icons=true&repo=vite-vue-ts-storybook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-bento-github&theme=github_dark&show_icons=true&repo=vite-vue-ts-storybook" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=miguel-bento-github&repo=mr-monkey">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-bento-github&theme=github_dark&show_icons=true&repo=mr-monkey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguel-bento-github&theme=github_dark&show_icons=true&repo=mr-monkey" />
 </a>
